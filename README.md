@@ -15,17 +15,16 @@ A simple CRUD (Create, Read, Update, Delete) application built with the MERN sta
 
 
 ## Screenshots
-![Alt text describing image](./docs/screenshots/01.png);
-![Alt text describing image](./docs/screenshots/02.png);
 
 ### Home / List Items
+![Alt text describing image](./docs/screenshots/01.png);
 
 ### Add New Item
 
 ### Edit Item
 
 ### Delete Item Confirmation
-
+![Alt text describing image](./docs/screenshots/02.png);
 ## Project Structure
 
 ```
