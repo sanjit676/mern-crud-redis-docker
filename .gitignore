@@ -1,0 +1,42 @@
+# Node modules of root (if any)
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Docker
+**/Dockerfile*  # Ignore Dockerfile backups if any - optional
+**/docker-compose.override.yml  # overrides sometimes not wanted
+
+# Miscellaneous OS files
+.DS_Store
+Thumbs.db
+
+# Coverage folders
+coverage/
+
+# Editor/File-specific
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build output - depends on where outputs are
+/build
+/dist
+
+# Temporary files
+tmp/
+temp/
